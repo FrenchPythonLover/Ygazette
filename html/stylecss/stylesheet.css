@@ -88,4 +88,8 @@
 }
 #titre_ombre:hover{
     text-shadow: none;
+
+}
+.black_shadow{
+    text-shadow: -5px 5px 5px black;
 }
