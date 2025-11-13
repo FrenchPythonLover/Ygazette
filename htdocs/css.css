@@ -1,0 +1,9 @@
+body{
+    background-color: #e3ffea;
+    font-family: Arial, sans-serif;
+    color: black;
+}
+.box{
+    max-width: 700px
+    box-sizing: border-box;
+}
