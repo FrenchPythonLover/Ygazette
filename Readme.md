@@ -1,4 +1,4 @@
-
+![the preview image failed to load !](https://i.imgur.com/rOcn1Zq.png)
 # Yjournal 
 Yjournal is a small online newsletter covering various topics.  
 Built around base **HTML, CSS, and Javascript**, it is also **mobile-friendly**.
