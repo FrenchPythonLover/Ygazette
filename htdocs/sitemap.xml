@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- Page d'accueil -->
+<url>
+<loc>https://yjournal.great-site.net/index.html</loc>
+<lastmod>2025-11-15</lastmod>
+<changefreq>daily</changefreq>
+<priority>1.0</priority>
+</url>
+<!-- Page À propos -->
+<url>
+<loc>
+https://yjournal.great-site.net/Plus%20d'information.html
+</loc>
+<lastmod>2025-11-15</lastmod>
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+<!-- article 1.1 -->
+<url>
+<loc>
+https://yjournal.great-site.net/article/actu_politique/3%C3%A8me_guerre.html
+</loc>
+<lastmod>2025-11-15</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<!-- article 1.2 -->
+<url>
+<loc>
+https://yjournal.great-site.net/article/informatique/quel_pc_choisir.html
+</loc>
+<lastmod>2025-11-15</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<!--déjà_paru -->
+<url>
+<loc>
+https://yjournal.great-site.net/article/déjà_paru.html
+</loc>
+<lastmod>2025-11-15</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<!--sources-->
+<url>
+  <loc>https://yjournal.great-site.net/sources.html</loc>
+  <lastmod>2025-11-15</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.4</priority>
+</url>
+</urlset>
