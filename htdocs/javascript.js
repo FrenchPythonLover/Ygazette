@@ -43,10 +43,9 @@ document.addEventListener("DOMContentLoaded", function() {
     }
   });
 });
-function recherche() {
+document.getElementById("refresh").addEventListener("click", function() {
     const input = document.getElementById("searchBar").value.toLowerCase();
     const articles = document.querySelectorAll("#articles a"); // tous les liens d’articles
- 
     articles.forEach(article => {
         const text = article.textContent.toLowerCase();
         if (text.includes(input)) {
@@ -55,4 +54,4 @@ function recherche() {
             article.style.display = "none";
         }
     });
-}
+})
